@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Kada/.idea/Kada.iml" filepath="$PROJECT_DIR$/../Kada/.idea/Kada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kris.iml" filepath="$PROJECT_DIR$/.idea/Kris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mosh/.idea/mosh.iml" filepath="$PROJECT_DIR$/../mosh/.idea/mosh.iml" />
+    </modules>
+  </component>
+</project>
